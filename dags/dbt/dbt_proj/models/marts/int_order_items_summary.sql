@@ -6,3 +6,5 @@ from
     {{ ref('int_order_items') }}
 group by
     order_key
+
+
